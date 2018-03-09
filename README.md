@@ -1,4 +1,4 @@
-# BankingSimulation
+# Banking Simulation
 
 Models of real-world systems often use queues. This program is an event-driven simulation to model a line of customers at a bank. The Queue represents a line at a bank. Arrival events and departure events are maintained using the priority queue and sorted by the time of the event using a link-based implementation.
 
